@@ -6,14 +6,14 @@ passionate about building intelligent systems and deploying scalable solutions. 
 🚀 Technologies & Tools
 
 - Languages: Python | Java 
-- Back-end: FastAPI | MongoDB 
+- Back-end: FastAPI | MongoDB/ Postgresql 
 - Front-end: React
 - ML & Data: scikit-learn | pandas | NumPy | Matplotlib
 
 🧠 What I'm Working On
 
-- 🔍 Machine Learning Projects with real-world data
-- 🌐 Full-stack ML apps using FastAPI + React
-- 📊 Data visualization and feature engineering
-- 🚀 Learning about MLOps and model deployment
+- Machine Learning Projects with real-world data
+- Creating ETL Pipelines
+- Full-stack ML apps using FastAPI + React
+- Data visualization and feature engineering
 
