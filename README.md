@@ -8,7 +8,7 @@ passionate about building intelligent systems and deploying scalable solutions. 
 - Languages: Python | Java 
 - Back-end: FastAPI | MongoDB/ Postgresql 
 - Front-end: React
-- ML & Data: scikit-learn | pandas | NumPy | Matplotlib
+- ML & Data: scikit-learn | pandas | NumPy | Matplotlib | Seaborn
 
 🧠 What I'm Working On
 
