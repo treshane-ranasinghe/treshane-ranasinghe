@@ -38,6 +38,35 @@ An **aspiring Machine Learning Engineer** passionate about building **intelligen
 - Developing **Full-stack ML apps** with FastAPI + React ⚡  
 - **Data visualization** & **feature engineering** 📊  
 
+## 🏗️ Latest Projects
+
+### 1. **Full-Stack ML App**
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square)
+
+A full-stack machine learning application where users can upload datasets, perform analysis, and visualize results in real-time.  
+[View Repository](https://github.com/TreshaneRanasinghe/fullstack-ml-app)
+
+---
+
+### 2. **ETL Pipeline for Real-World Data**
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square)
+
+Automated ETL pipeline to extract, transform, and load data into a data warehouse for analytics and reporting.  
+[View Repository](https://github.com/TreshaneRanasinghe/etl-pipeline)
+
+---
+
+### 3. **Data Visualization & Feature Engineering**
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+
+Explored multiple datasets to extract meaningful features and create interactive visualizations for machine learning models.  
+[View Repository](https://github.com/TreshaneRanasinghe/data-visualization)
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Treshane-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/TreshaneRanasinghe)  
