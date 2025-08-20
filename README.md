@@ -36,13 +36,17 @@ An **aspiring Machine Learning Engineer** passionate about building **intelligen
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-3E64FF?style=flat-square)
+![DeepSeek API](https://img.shields.io/badge/DeepSeek-FF6F61?style=flat-square)
+![dotenv](https://img.shields.io/badge/python--dotenv-4B8BBE?style=flat-square)
 
 A FastAPI project implementing a **medical question-answering chatbot** using **RAG (Retrieval-Augmented Generation)**. The chatbot retrieves relevant medical knowledge from a CSV dataset of diseases and symptoms, augmenting user queries for more accurate answers.
 
 **⚡ Features:**
 - Receives patient queries via `/chat` POST endpoint  
 - Retrieves relevant disease/symptom context from CSV knowledge base  
-- Generates responses via DeepSeek API with context-aware answers  
+- Augments queries for precise answers using RAG  
+- Generates responses via DeepSeek API  
 - Returns both the chatbot response and the context used  
 
 **🔗 Repository:** [Medical Chatbot with RAG](https://github.com/treshane-ranasinghe/Medical-Chatbot-with-RAG-Retrieval-Augmented-Generation-)
@@ -52,19 +56,21 @@ A FastAPI project implementing a **medical question-answering chatbot** using **
 ### 2. 💳 Credit Card Fraud Detection using Machine Learning
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square)
+![pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
 
-A **Credit Card Fraud Detection System** built using **Random Forest Classification** to identify fraudulent transactions in real-time.  
+A **Credit Card Fraud Detection System** built using **Random Forest Classification** to detect fraudulent transactions in real-time.  
 
 **⚡ Highlights:**
 - Algorithm: Random Forest Classifier (ensemble of decision trees)  
 - Data Prep: Scaling, cleaning, balancing imbalanced classes  
 - Model Training: Hyperparameter tuning with RandomizedSearchCV  
-- Evaluation: Accuracy, Precision, Recall, F1-Score  
-
-The model flags suspicious transactions instantly, minimizing false alarms while catching fraud efficiently.
+- Evaluation Metrics: Accuracy, Precision, Recall, F1-Score  
 
 **🔗 Repository:** [Credit Card Fraud Detection ML](https://github.com/treshane-ranasinghe/Credit-Card-Fraud-Detection-ML)
+
 
 ## 🧠 What I'm Working On
 - Real-world **Machine Learning projects** 🧩  
