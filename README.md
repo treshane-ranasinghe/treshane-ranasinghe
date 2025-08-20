@@ -30,7 +30,41 @@ An **aspiring Machine Learning Engineer** passionate about building **intelligen
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## 🏗️ Latest Projects
+
+### 1. 🩺 Medical Chatbot with RAG (Retrieval-Augmented Generation)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square)
+
+A FastAPI project implementing a **medical question-answering chatbot** using **RAG (Retrieval-Augmented Generation)**. The chatbot retrieves relevant medical knowledge from a CSV dataset of diseases and symptoms, augmenting user queries for more accurate answers.
+
+**⚡ Features:**
+- Receives patient queries via `/chat` POST endpoint  
+- Retrieves relevant disease/symptom context from CSV knowledge base  
+- Generates responses via DeepSeek API with context-aware answers  
+- Returns both the chatbot response and the context used  
+
+**🔗 Repository:** [Medical Chatbot with RAG](https://github.com/treshane-ranasinghe/Medical-Chatbot-with-RAG-Retrieval-Augmented-Generation-)
+
 ---
+
+### 2. 💳 Credit Card Fraud Detection using Machine Learning
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square)
+
+A **Credit Card Fraud Detection System** built using **Random Forest Classification** to identify fraudulent transactions in real-time.  
+
+**⚡ Highlights:**
+- Algorithm: Random Forest Classifier (ensemble of decision trees)  
+- Data Prep: Scaling, cleaning, balancing imbalanced classes  
+- Model Training: Hyperparameter tuning with RandomizedSearchCV  
+- Evaluation: Accuracy, Precision, Recall, F1-Score  
+
+The model flags suspicious transactions instantly, minimizing false alarms while catching fraud efficiently.
+
+**🔗 Repository:** [Credit Card Fraud Detection ML](https://github.com/treshane-ranasinghe/Credit-Card-Fraud-Detection-ML)
 
 ## 🧠 What I'm Working On
 - Real-world **Machine Learning projects** 🧩  
@@ -38,35 +72,6 @@ An **aspiring Machine Learning Engineer** passionate about building **intelligen
 - Developing **Full-stack ML apps** with FastAPI + React ⚡  
 - **Data visualization** & **feature engineering** 📊  
 
-## 🏗️ Latest Projects
-
-### 1. **Full-Stack ML App**
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square)
-
-A full-stack machine learning application where users can upload datasets, perform analysis, and visualize results in real-time.  
-[View Repository](https://github.com/TreshaneRanasinghe/fullstack-ml-app)
-
----
-
-### 2. **ETL Pipeline for Real-World Data**
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square)
-
-Automated ETL pipeline to extract, transform, and load data into a data warehouse for analytics and reporting.  
-[View Repository](https://github.com/TreshaneRanasinghe/etl-pipeline)
-
----
-
-### 3. **Data Visualization & Feature Engineering**
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
-
-Explored multiple datasets to extract meaningful features and create interactive visualizations for machine learning models.  
-[View Repository](https://github.com/TreshaneRanasinghe/data-visualization)
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Treshane-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/TreshaneRanasinghe)  
