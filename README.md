@@ -42,8 +42,19 @@ I'm an **aspiring Machine Learning Engineer** passionate about building **intell
 
 ## 📈 GitHub Stats
 ![Treshane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TreshaneRanasinghe&show_icons=true&count_private=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TreshaneRanasinghe&layout=compact&theme=radical)
+
+---
+
+## 🐍 Contribution Snake Game
+![Snake animation](https://github.com/TreshaneRanasinghe/TreshaneRanasinghe/raw/output/github-contribution-snake.svg)
+
+> This shows my contributions over the last year in a **snake-like animation**.  
+
+---
+
+## 👀 Visitors Counter
+![Visitor Count](https://profile-counter.glitch.me/TreshaneRanasinghe/count.svg)
 
 ---
 
