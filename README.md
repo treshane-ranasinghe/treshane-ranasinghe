@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Treshane Ranasinghe
 
-An **aspiring Machine Learning Engineer** passionate about building **intelligent systems** and deploying **scalable solutions**. I enjoy working across the stack—from **data pipelines** to **API design** to **front-end integration**.  
+ **aspiring Machine Learning Engineer** passionate about building **intelligent systems** and deploying **scalable solutions**. I enjoy working across the stack—from **data pipelines** to **API design** to **front-end integration**.  
 
 ---
 
